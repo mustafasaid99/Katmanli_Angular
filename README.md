@@ -9,4 +9,6 @@ Arayüz Örneği
 
 <hr>
 Kod Örneği
-<br>
+<br><br>
+
+![Ekran Alıntısı1](https://user-images.githubusercontent.com/60323250/112395828-2d10c900-8d10-11eb-96ed-c40e70485544.PNG)
